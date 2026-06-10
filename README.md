@@ -34,6 +34,3 @@ Navigate to the `neurospark` directory, install dependencies, and start the deve
 cd neurospark
 npm install
 npm run dev
-cd neurospark
-npm install
-npm run dev
